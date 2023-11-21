@@ -1,12 +1,6 @@
-## Hi there 👋
+# Sobre nós
 
-<!--
+Criamos soluções tecnológicas que oportunizam evolução e desenvolvimento.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Atuamos junto a diferentes perfis de empresas e pessoas, contribuindo para que nossos clientes enfrentem os desafios do presente e preparando-os para as oportunidades do futuro, em um ciclo continuo de evolução e progresso.
+Queremos facilitar as experiências do cotidiano e, para isso, desenvolvemos soluções completas que abrangem serviços e produtos, resultando em mais autonomia, segurança e otimização de processos. Esses são os meios escolhidos pela Paytrack para entregar valor ao mercado.
